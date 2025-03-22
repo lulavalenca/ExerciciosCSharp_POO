@@ -1,0 +1,5 @@
+# Ignorar pastas de build e dependências
+bin/
+obj/
+.vscode/
+.vs/
